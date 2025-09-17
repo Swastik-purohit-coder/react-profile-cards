@@ -1,4 +1,4 @@
-# Profile Card TailwindCSS
+# react-profile-cards
 
 A React app that displays user posts as profile cards, styled with TailwindCSS. It fetches data from an API and presents each post with a title, body, and user ID. Includes a responsive navbar for navigation.
 
